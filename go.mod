@@ -26,7 +26,7 @@ replace (
 require (
 	code.cloudfoundry.org/go-loggregator v7.4.0+incompatible
 	github.com/Microsoft/go-winio v0.5.2
-	github.com/SAP/go-hdb v0.105.2
+	github.com/SAP/go-hdb v0.106.1
 	github.com/Sectorbob/mlab-ns2 v0.0.0-20171030222938-d3aa0c295a8a
 	github.com/Showmax/go-fqdn v1.0.0
 	github.com/StackExchange/wmi v1.2.1
@@ -107,9 +107,9 @@ require (
 	gopkg.in/go-playground/validator.v9 v9.31.0
 	gopkg.in/yaml.v2 v2.4.0
 	gotest.tools v2.2.0+incompatible
-	k8s.io/api v0.24.2
-	k8s.io/apimachinery v0.24.2
-	k8s.io/client-go v0.24.2
+	k8s.io/api v0.24.3
+	k8s.io/apimachinery v0.24.3
+	k8s.io/client-go v0.24.3
 	k8s.io/kubelet v0.24.2
 )
 
